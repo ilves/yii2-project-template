@@ -1,0 +1,6 @@
+runtime/*
+!runtime/DO_NOT_DELETE
+web/assets/*
+!web/assets/DO_NOT_DELETE
+.idea
+vendor/*
